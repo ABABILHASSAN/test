@@ -1,0 +1,60 @@
+/* font family link hear... */
+  
+:root{
+     --green: #27ae60;
+}
+  
+*{
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+    transition: all .2s linear;
+}
+  
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-padding-top: 5.5rem;
+    scroll-behavior: smooth;
+}
+    
+/* For HTML Email Template Start */
+  
+/* body{
+    background-color: #d8dbdb;
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 2%;
+}
+  
+.wrapper{
+    background-color: #f6faff;
+    box-shadow: 0 0 10px #666;
+    border-radius: 5px;
+} */
+    
+/* For HTML Email Template Start */
+    
+    
+    
+    
+    
+    
+    
+/* media queries starts */
+  
+@media (max-width: 991px){
+}
+  
+@media (max-width: 768px){
+}
+  
+@media (max-width: 450px){
+}
+  
+/* media queries ends */
